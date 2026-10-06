@@ -9,5 +9,8 @@ This repo contains the files required for the assignments in ECE 55831 that are 
 A02 [Assignment 02]
     The numpy-tutorials.ipynb is written in Python and is an executable format of the Python Numpy tutorials found on https://cs231n.github.io/python-numpy-tutorial/
 
-A03 [ Assignment 03]
-    
+A03 [Assignment 03]
+    Contains 3 files to create, test and display 5 logic gates (OR, AND, NAND, NOR, XOR) using numpy
+    * logic_gates.py
+    * module3.py
+    * module3.ipynp
