@@ -14,3 +14,9 @@ A03 [Assignment 03]
     * logic_gates.py
     * module3.py
     * module3.ipynp
+
+A04 [Assignment 04]
+    Implements and tests a Multilayer Perceptron with Sigmoid and ReLU activation functions, demonstrating forward propagation using random and manual weights and biases.
+    * multilayer_perceptron.py
+    * module4.py
+    * module4.ipynb
